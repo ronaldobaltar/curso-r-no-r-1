@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curso R para Políticas Públicas – Nível 1",
+    "section": "",
+    "text": "Este é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas.\n\nEste é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
+  },
+  {
+    "objectID": "index.html#instruções",
+    "href": "index.html#instruções",
+    "title": "Curso R para Políticas Públicas – Nível 1",
+    "section": "",
+    "text": "Instale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas.\n\nEste é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
+  },
+  {
+    "objectID": "index.html#instruções-2",
+    "href": "index.html#instruções-2",
+    "title": "Curso R para Políticas Públicas – Nível 1",
+    "section": "Instruções",
+    "text": "Instruções\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
