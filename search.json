@@ -1,30 +1,37 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Curso R para Políticas Públicas – Nível 1",
+    "objectID": "old_index.html",
+    "href": "old_index.html",
+    "title": "Curso R para Políticas Públicas",
     "section": "",
     "text": "Este é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas.\n\nEste é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
   },
   {
-    "objectID": "index.html#instruções",
-    "href": "index.html#instruções",
-    "title": "Curso R para Políticas Públicas – Nível 1",
+    "objectID": "old_index.html#instruções",
+    "href": "old_index.html#instruções",
+    "title": "Curso R para Políticas Públicas",
     "section": "",
     "text": "Instale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas.\n\nEste é o nível 1 do curso sobre R para políticas públicas usando o pacote swirl.\n\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
   },
   {
-    "objectID": "index.html#instruções-2",
-    "href": "index.html#instruções-2",
-    "title": "Curso R para Políticas Públicas – Nível 1",
+    "objectID": "old_index.html#instruções-2",
+    "href": "old_index.html#instruções-2",
+    "title": "Curso R para Políticas Públicas",
     "section": "Instruções",
     "text": "Instruções\n\nInstale o pacote swirl\nRode library(swirl)\nEscolha o curso “Curso R para Políticas Públicas - Nível 1”\nSiga as lições interativas."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Prof. Ronaldo Baltar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Curso R para Políticas Públicas",
+    "section": "",
+    "text": "Bem-vindo(a)\nEm breve anunciaremos aqui o início do nível 1 do curso sobre R para políticas públicas usando o pacote swirl. O curso é voltado para iniciantes e não requer conhecimento prévio em R. O curso é dividido em 5 níveis, cada um com 10 lições O processo de aprendizagem é interativo e prático, com exercícios e desafios que ajudam a fixar o conteúdo dentro do próprio R.\nAcompanhe-nos em https://aqms.substack.com e você receberá uma notificação quando o material do curso estiver disponível.\nProf. Ronaldo Baltar"
   }
 ]
